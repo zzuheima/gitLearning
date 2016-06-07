@@ -1,4 +1,4 @@
-Git is a version control system.
+ Git is a version control system.
 Git is free software.
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
@@ -13,3 +13,5 @@ creating a new branch is quick and simple.
 git
 master  
 dev add 2016-06-07 17:23:32 rebase not 
+dev add 2016-06-07 17:23:32 rebase 
+ not rebase
